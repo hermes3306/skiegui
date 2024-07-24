@@ -1,0 +1,101 @@
+product_id,name,description,price,category,stock_quantity,manufacturer,weight,dimensions,is_available,created_at,last_updated
+1,Product 1,Description for Product 1,340.43,Home & Garden,790,Manufacturer 17,17.62,16x76x92,False,2023-05-22 12:27:12.998678,2024-06-29 12:27:12.998679
+2,Product 2,Description for Product 2,215.83,Clothing,800,Manufacturer 4,9.93,45x100x28,True,2021-11-06 12:27:12.998684,2024-07-08 12:27:12.998685
+3,Product 3,Description for Product 3,936.60,Electronics,299,Manufacturer 18,4.31,94x18x98,False,2023-12-01 12:27:12.998690,2024-07-20 12:27:12.998691
+4,Product 4,Description for Product 4,344.60,Books,347,Manufacturer 19,0.32,34x20x24,False,2022-01-17 12:27:12.998695,2024-07-24 12:27:12.998696
+5,Product 5,Description for Product 5,461.17,Toys,861,Manufacturer 7,19.54,34x42x4,False,2023-12-29 12:27:12.998700,2024-07-19 12:27:12.998701
+6,Product 6,Description for Product 6,401.39,Home & Garden,937,Manufacturer 7,40.63,2x23x16,False,2022-09-30 12:27:12.998706,2024-07-22 12:27:12.998707
+7,Product 7,Description for Product 7,741.73,Toys,699,Manufacturer 15,24.21,8x40x49,False,2022-11-03 12:27:12.998711,2024-07-15 12:27:12.998712
+8,Product 8,Description for Product 8,463.76,Clothing,494,Manufacturer 5,10.03,68x38x67,True,2024-01-23 12:27:12.998716,2024-07-21 12:27:12.998717
+9,Product 9,Description for Product 9,343.94,Home & Garden,599,Manufacturer 5,2.44,44x76x10,True,2022-01-01 12:27:12.998722,2024-07-16 12:27:12.998723
+10,Product 10,Description for Product 10,380.13,Clothing,99,Manufacturer 4,14.37,68x67x63,False,2022-12-28 12:27:12.998727,2024-07-02 12:27:12.998728
+11,Product 11,Description for Product 11,798.07,Books,365,Manufacturer 3,41.72,27x60x1,False,2024-02-11 12:27:12.998732,2024-07-01 12:27:12.998733
+12,Product 12,Description for Product 12,653.67,Clothing,352,Manufacturer 17,39.90,91x9x5,True,2023-09-29 12:27:12.998738,2024-07-08 12:27:12.998739
+13,Product 13,Description for Product 13,772.43,Clothing,442,Manufacturer 20,32.79,15x58x43,True,2024-06-12 12:27:12.998743,2024-07-13 12:27:12.998745
+14,Product 14,Description for Product 14,173.21,Home & Garden,814,Manufacturer 3,15.20,14x86x44,True,2023-05-07 12:27:12.998750,2024-06-29 12:27:12.998751
+15,Product 15,Description for Product 15,764.81,Clothing,795,Manufacturer 3,34.11,99x44x34,True,2024-03-27 12:27:12.998755,2024-07-22 12:27:12.998756
+16,Product 16,Description for Product 16,13.47,Clothing,812,Manufacturer 17,30.19,9x79x76,True,2023-01-12 12:27:12.998760,2024-07-05 12:27:12.998761
+17,Product 17,Description for Product 17,604.60,Home & Garden,491,Manufacturer 2,29.75,50x42x41,False,2022-04-09 12:27:12.998765,2024-07-11 12:27:12.998766
+18,Product 18,Description for Product 18,229.39,Clothing,808,Manufacturer 4,32.50,67x11x30,True,2023-04-23 12:27:12.998772,2024-06-25 12:27:12.998773
+19,Product 19,Description for Product 19,862.70,Electronics,576,Manufacturer 13,13.82,91x34x31,True,2024-02-09 12:27:12.998777,2024-06-25 12:27:12.998778
+20,Product 20,Description for Product 20,541.69,Clothing,260,Manufacturer 3,9.49,9x77x50,False,2023-02-28 12:27:12.998782,2024-07-22 12:27:12.998783
+21,Product 21,Description for Product 21,773.75,Home & Garden,237,Manufacturer 19,17.60,14x2x92,True,2024-03-07 12:27:12.998788,2024-06-30 12:27:12.998789
+22,Product 22,Description for Product 22,808.30,Home & Garden,213,Manufacturer 6,43.17,21x83x82,False,2024-04-14 12:27:12.998794,2024-07-14 12:27:12.998795
+23,Product 23,Description for Product 23,910.23,Clothing,888,Manufacturer 10,13.87,28x55x30,False,2021-11-11 12:27:12.998802,2024-07-23 12:27:12.998803
+24,Product 24,Description for Product 24,921.15,Toys,77,Manufacturer 20,38.40,29x60x56,True,2022-06-05 12:27:12.998807,2024-07-01 12:27:12.998808
+25,Product 25,Description for Product 25,97.47,Books,902,Manufacturer 5,29.12,38x97x48,False,2022-06-23 12:27:12.998812,2024-07-15 12:27:12.998813
+26,Product 26,Description for Product 26,652.08,Clothing,252,Manufacturer 19,10.16,48x69x68,False,2024-07-03 12:27:12.998817,2024-07-02 12:27:12.998818
+27,Product 27,Description for Product 27,134.00,Toys,619,Manufacturer 6,46.64,56x44x79,False,2024-05-04 12:27:12.998823,2024-07-01 12:27:12.998824
+28,Product 28,Description for Product 28,324.81,Toys,757,Manufacturer 9,41.40,31x34x98,True,2023-02-08 12:27:12.998828,2024-07-20 12:27:12.998829
+29,Product 29,Description for Product 29,21.79,Toys,53,Manufacturer 15,42.93,13x8x53,False,2022-03-31 12:27:12.998833,2024-07-15 12:27:12.998834
+30,Product 30,Description for Product 30,381.96,Home & Garden,221,Manufacturer 17,22.95,57x16x1,True,2022-03-24 12:27:12.998838,2024-07-24 12:27:12.998841
+31,Product 31,Description for Product 31,385.40,Toys,671,Manufacturer 18,21.25,7x43x77,True,2023-04-02 12:27:12.998845,2024-07-14 12:27:12.998846
+32,Product 32,Description for Product 32,734.08,Clothing,883,Manufacturer 1,45.55,12x46x27,False,2022-08-19 12:27:12.998851,2024-07-14 12:27:12.998852
+33,Product 33,Description for Product 33,644.91,Clothing,310,Manufacturer 19,43.64,53x81x65,True,2023-06-12 12:27:12.998856,2024-07-10 12:27:12.998857
+34,Product 34,Description for Product 34,956.89,Toys,437,Manufacturer 10,1.59,79x81x83,False,2024-04-02 12:27:12.998862,2024-07-05 12:27:12.998863
+35,Product 35,Description for Product 35,259.53,Clothing,585,Manufacturer 1,9.00,75x19x50,True,2023-11-19 12:27:12.998867,2024-07-10 12:27:12.998868
+36,Product 36,Description for Product 36,219.70,Books,696,Manufacturer 13,27.14,42x6x4,False,2022-05-19 12:27:12.998873,2024-06-29 12:27:12.998874
+37,Product 37,Description for Product 37,589.22,Clothing,811,Manufacturer 4,13.95,10x28x63,False,2023-04-26 12:27:12.998878,2024-06-27 12:27:12.998878
+38,Product 38,Description for Product 38,838.10,Clothing,497,Manufacturer 10,9.13,57x9x47,False,2023-02-07 12:27:12.998883,2024-06-26 12:27:12.998884
+39,Product 39,Description for Product 39,787.98,Toys,723,Manufacturer 14,17.15,99x69x8,True,2022-06-21 12:27:12.998888,2024-07-19 12:27:12.998889
+40,Product 40,Description for Product 40,248.80,Clothing,808,Manufacturer 17,29.29,100x33x44,False,2023-01-22 12:27:12.998893,2024-06-28 12:27:12.998894
+41,Product 41,Description for Product 41,642.75,Home & Garden,256,Manufacturer 20,30.81,21x40x99,False,2022-12-31 12:27:12.998898,2024-07-18 12:27:12.998899
+42,Product 42,Description for Product 42,388.99,Electronics,871,Manufacturer 11,14.09,25x23x28,True,2024-02-15 12:27:12.998903,2024-07-23 12:27:12.998904
+43,Product 43,Description for Product 43,888.46,Toys,95,Manufacturer 10,8.57,26x47x80,True,2022-08-04 12:27:12.998910,2024-07-06 12:27:12.998911
+44,Product 44,Description for Product 44,656.33,Electronics,613,Manufacturer 3,25.57,5x6x97,True,2024-02-04 12:27:12.998915,2024-07-17 12:27:12.998916
+45,Product 45,Description for Product 45,272.52,Clothing,432,Manufacturer 19,18.52,53x83x97,False,2024-01-08 12:27:12.998920,2024-07-22 12:27:12.998921
+46,Product 46,Description for Product 46,100.72,Clothing,490,Manufacturer 16,4.68,84x78x36,False,2022-02-16 12:27:12.998925,2024-07-10 12:27:12.998926
+47,Product 47,Description for Product 47,50.33,Home & Garden,849,Manufacturer 6,41.43,54x23x67,True,2022-08-19 12:27:12.998931,2024-07-15 12:27:12.998931
+48,Product 48,Description for Product 48,775.67,Toys,491,Manufacturer 12,49.85,39x15x41,False,2024-02-09 12:27:12.998935,2024-07-20 12:27:12.998936
+49,Product 49,Description for Product 49,291.91,Clothing,62,Manufacturer 2,35.31,59x50x50,True,2023-06-29 12:27:12.998941,2024-07-18 12:27:12.998941
+50,Product 50,Description for Product 50,537.95,Home & Garden,26,Manufacturer 6,16.36,53x73x70,True,2022-08-19 12:27:12.998946,2024-07-14 12:27:12.998947
+51,Product 51,Description for Product 51,364.93,Electronics,981,Manufacturer 9,41.50,19x68x93,False,2022-11-11 12:27:12.998951,2024-07-19 12:27:12.998952
+52,Product 52,Description for Product 52,80.41,Books,608,Manufacturer 12,25.04,72x49x96,False,2023-01-14 12:27:12.998956,2024-06-24 12:27:12.998957
+53,Product 53,Description for Product 53,65.85,Books,679,Manufacturer 9,8.80,44x40x31,False,2022-10-22 12:27:12.998961,2024-07-01 12:27:12.998962
+54,Product 54,Description for Product 54,442.64,Electronics,816,Manufacturer 11,32.98,12x32x4,True,2021-11-07 12:27:12.998966,2024-07-12 12:27:12.998967
+55,Product 55,Description for Product 55,460.15,Books,847,Manufacturer 1,46.33,90x85x11,True,2023-02-05 12:27:12.998973,2024-06-29 12:27:12.998974
+56,Product 56,Description for Product 56,248.12,Clothing,118,Manufacturer 14,37.90,37x53x29,False,2023-07-18 12:27:12.998978,2024-07-08 12:27:12.998979
+57,Product 57,Description for Product 57,820.21,Books,859,Manufacturer 17,21.50,10x53x98,False,2024-06-03 12:27:12.998983,2024-07-24 12:27:12.998984
+58,Product 58,Description for Product 58,944.42,Electronics,922,Manufacturer 12,11.96,8x14x56,False,2023-03-11 12:27:12.998988,2024-07-22 12:27:12.998989
+59,Product 59,Description for Product 59,497.90,Electronics,362,Manufacturer 10,26.21,94x42x76,True,2022-09-11 12:27:12.998995,2024-07-04 12:27:12.998996
+60,Product 60,Description for Product 60,184.50,Books,153,Manufacturer 3,16.22,42x4x85,True,2022-07-26 12:27:12.999000,2024-07-18 12:27:12.999001
+61,Product 61,Description for Product 61,741.78,Electronics,965,Manufacturer 6,46.11,45x44x1,True,2022-03-22 12:27:12.999005,2024-07-15 12:27:12.999006
+62,Product 62,Description for Product 62,94.06,Books,485,Manufacturer 7,28.13,85x68x59,False,2022-08-27 12:27:12.999010,2024-07-11 12:27:12.999011
+63,Product 63,Description for Product 63,968.96,Clothing,977,Manufacturer 1,28.59,69x25x78,False,2022-03-03 12:27:12.999015,2024-07-22 12:27:12.999016
+64,Product 64,Description for Product 64,447.65,Home & Garden,224,Manufacturer 17,18.11,90x74x11,False,2022-09-05 12:27:12.999021,2024-07-19 12:27:12.999021
+65,Product 65,Description for Product 65,342.72,Toys,926,Manufacturer 5,6.07,44x48x52,False,2022-08-06 12:27:12.999026,2024-07-04 12:27:12.999027
+66,Product 66,Description for Product 66,443.86,Books,905,Manufacturer 15,40.07,45x95x66,True,2022-02-14 12:27:12.999031,2024-07-24 12:27:12.999032
+67,Product 67,Description for Product 67,807.18,Clothing,557,Manufacturer 7,32.21,67x52x49,False,2024-03-30 12:27:12.999036,2024-07-19 12:27:12.999037
+68,Product 68,Description for Product 68,143.09,Electronics,506,Manufacturer 1,39.29,69x34x50,False,2024-07-11 12:27:12.999041,2024-07-20 12:27:12.999042
+69,Product 69,Description for Product 69,626.55,Home & Garden,833,Manufacturer 2,36.92,16x68x47,False,2024-02-24 12:27:12.999048,2024-07-20 12:27:12.999049
+70,Product 70,Description for Product 70,879.13,Electronics,556,Manufacturer 11,25.81,74x89x89,False,2022-01-25 12:27:12.999053,2024-06-27 12:27:12.999054
+71,Product 71,Description for Product 71,198.85,Clothing,49,Manufacturer 10,7.07,44x23x87,False,2024-01-14 12:27:12.999059,2024-07-05 12:27:12.999060
+72,Product 72,Description for Product 72,217.04,Electronics,273,Manufacturer 5,19.62,68x83x84,True,2024-02-04 12:27:12.999064,2024-07-07 12:27:12.999065
+73,Product 73,Description for Product 73,487.50,Electronics,516,Manufacturer 17,48.56,19x41x84,False,2022-10-05 12:27:12.999070,2024-06-28 12:27:12.999071
+74,Product 74,Description for Product 74,966.23,Clothing,262,Manufacturer 20,12.71,57x13x80,False,2023-06-28 12:27:12.999075,2024-06-28 12:27:12.999076
+75,Product 75,Description for Product 75,234.99,Books,559,Manufacturer 7,41.53,9x31x38,True,2022-03-13 12:27:12.999080,2024-07-03 12:27:12.999081
+76,Product 76,Description for Product 76,660.10,Toys,722,Manufacturer 17,29.59,24x94x66,False,2022-05-27 12:27:12.999085,2024-06-27 12:27:12.999086
+77,Product 77,Description for Product 77,791.37,Clothing,606,Manufacturer 20,4.85,19x43x39,True,2022-05-29 12:27:12.999090,2024-07-11 12:27:12.999091
+78,Product 78,Description for Product 78,152.53,Home & Garden,37,Manufacturer 10,33.39,8x44x84,True,2022-06-17 12:27:12.999095,2024-06-29 12:27:12.999096
+79,Product 79,Description for Product 79,346.61,Electronics,283,Manufacturer 13,37.70,75x1x34,True,2024-02-11 12:27:12.999100,2024-07-11 12:27:12.999101
+80,Product 80,Description for Product 80,176.03,Toys,791,Manufacturer 17,23.93,49x67x37,True,2021-11-04 12:27:12.999105,2024-07-06 12:27:12.999106
+81,Product 81,Description for Product 81,924.59,Toys,234,Manufacturer 12,20.27,85x43x99,False,2022-04-12 12:27:12.999110,2024-07-08 12:27:12.999111
+82,Product 82,Description for Product 82,114.51,Home & Garden,683,Manufacturer 17,31.28,53x11x96,False,2022-08-24 12:27:12.999115,2024-07-09 12:27:12.999116
+83,Product 83,Description for Product 83,405.38,Home & Garden,840,Manufacturer 4,11.35,72x62x35,True,2023-12-04 12:27:12.999120,2024-07-01 12:27:12.999121
+84,Product 84,Description for Product 84,570.06,Home & Garden,936,Manufacturer 16,4.92,29x56x54,True,2024-06-02 12:27:12.999126,2024-07-09 12:27:12.999127
+85,Product 85,Description for Product 85,839.85,Home & Garden,405,Manufacturer 4,20.87,39x12x42,True,2024-04-04 12:27:12.999132,2024-06-27 12:27:12.999133
+86,Product 86,Description for Product 86,73.19,Home & Garden,890,Manufacturer 9,40.57,35x82x88,False,2022-03-22 12:27:12.999137,2024-07-08 12:27:12.999138
+87,Product 87,Description for Product 87,240.73,Home & Garden,963,Manufacturer 6,12.63,26x66x89,False,2021-12-19 12:27:12.999144,2024-07-19 12:27:12.999145
+88,Product 88,Description for Product 88,850.03,Toys,765,Manufacturer 12,40.14,60x68x88,False,2024-06-13 12:27:12.999149,2024-07-17 12:27:12.999150
+89,Product 89,Description for Product 89,718.86,Books,977,Manufacturer 8,17.08,75x83x29,True,2022-07-16 12:27:12.999154,2024-07-09 12:27:12.999155
+90,Product 90,Description for Product 90,169.73,Toys,21,Manufacturer 13,40.19,47x37x72,False,2022-12-27 12:27:12.999159,2024-07-10 12:27:12.999160
+91,Product 91,Description for Product 91,509.32,Electronics,558,Manufacturer 6,37.66,37x55x64,False,2024-04-10 12:27:12.999165,2024-07-22 12:27:12.999165
+92,Product 92,Description for Product 92,203.34,Home & Garden,10,Manufacturer 3,9.55,94x89x68,False,2022-01-04 12:27:12.999170,2024-07-03 12:27:12.999171
+93,Product 93,Description for Product 93,608.29,Books,449,Manufacturer 11,43.61,53x19x16,False,2022-03-06 12:27:12.999175,2024-07-22 12:27:12.999176
+94,Product 94,Description for Product 94,97.68,Toys,318,Manufacturer 11,20.28,44x93x57,False,2021-12-06 12:27:12.999180,2024-07-07 12:27:12.999181
+95,Product 95,Description for Product 95,941.60,Home & Garden,593,Manufacturer 19,12.18,3x79x37,True,2023-04-19 12:27:12.999185,2024-06-30 12:27:12.999186
+96,Product 96,Description for Product 96,41.23,Home & Garden,411,Manufacturer 1,42.31,96x52x51,True,2023-12-03 12:27:12.999190,2024-07-01 12:27:12.999191
+97,Product 97,Description for Product 97,201.09,Books,906,Manufacturer 19,48.82,18x81x20,False,2023-04-28 12:27:12.999195,2024-07-08 12:27:12.999196
+98,Product 98,Description for Product 98,620.23,Toys,416,Manufacturer 16,4.25,52x59x69,False,2023-07-10 12:27:12.999200,2024-07-21 12:27:12.999201
+99,Product 99,Description for Product 99,680.32,Clothing,761,Manufacturer 6,8.89,91x21x40,True,2023-08-07 12:27:12.999205,2024-07-16 12:27:12.999206
+100,Product 100,Description for Product 100,672.30,Clothing,916,Manufacturer 7,30.15,84x32x13,True,2022-01-05 12:27:12.999210,2024-07-16 12:27:12.999211

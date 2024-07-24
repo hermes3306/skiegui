@@ -1,0 +1,101 @@
+order_id,user_id,order_date,total_amount,status,shipping_address,billing_address,payment_method,shipping_method,tracking_number,notes
+1,33,2023-10-07 12:27:13.003889,4227.46,cancelled,"80 Main St, City 47, State 11","80 Main St, City 47, State 11",Bank Transfer,Standard,P3F9466I6MT9,
+2,35,2023-10-24 12:27:13.004923,16710.82,processing,"540 Main St, City 5, State 25","540 Main St, City 5, State 25",PayPal,Express,8QJPGOV2TO9A,
+3,30,2024-03-17 12:27:13.005520,8223.93,delivered,"465 Main St, City 13, State 32","804 Side St, City 8, State 12",Bank Transfer,Overnight,EV2NF7DWNQM9,Some notes about the order
+4,52,2023-12-13 12:27:13.005884,3594.90,pending,"159 Main St, City 15, State 40","337 Side St, City 37, State 38",PayPal,Express,MD9WQ5X74VGC,Some notes about the order
+5,8,2024-03-14 12:27:13.006215,1233.79,cancelled,"889 Main St, City 13, State 11","889 Main St, City 13, State 11",Credit Card,Overnight,I8MVZPRUF5UJ,Some notes about the order
+6,16,2023-08-28 12:27:13.006452,3116.52,delivered,"949 Main St, City 49, State 50","878 Side St, City 6, State 20",Credit Card,Standard,86KDCE7X2HC2,
+7,26,2024-01-10 12:27:13.007158,13878.56,cancelled,"307 Main St, City 7, State 44","320 Side St, City 4, State 22",PayPal,Overnight,QCU7W8EHR16X,
+8,37,2024-03-01 12:27:13.007900,934.31,cancelled,"685 Main St, City 34, State 48","685 Main St, City 34, State 48",Credit Card,Express,EWYBQ05PZUO5,
+9,23,2024-06-08 12:27:13.008140,10911.36,cancelled,"699 Main St, City 37, State 4","781 Side St, City 40, State 24",PayPal,Overnight,XYZ5BEO6RFUS,
+10,97,2023-09-29 12:27:13.008664,3327.36,delivered,"786 Main St, City 39, State 41","55 Side St, City 3, State 11",PayPal,Standard,8VZ95MXLEKW6,
+11,25,2023-11-20 12:27:13.009087,6186.53,cancelled,"78 Main St, City 15, State 9","78 Main St, City 15, State 9",Bank Transfer,Overnight,2EE8DADZXC0R,Some notes about the order
+12,25,2024-01-08 12:27:13.009692,5289.66,shipped,"682 Main St, City 46, State 21","682 Main St, City 46, State 21",Bank Transfer,Standard,ZYK8KQV62VQ9,
+13,38,2024-05-26 12:27:13.010018,18749.46,pending,"976 Main St, City 18, State 2","564 Side St, City 44, State 38",Bank Transfer,Overnight,AJXD4JZ3VBYT,
+14,53,2024-05-18 12:27:13.010539,6252.46,cancelled,"466 Main St, City 25, State 9","615 Side St, City 45, State 11",Bank Transfer,Standard,HEMYB0MPOZ43,
+15,20,2023-10-25 12:27:13.010986,9745.16,pending,"877 Main St, City 39, State 4","119 Side St, City 47, State 44",Bank Transfer,Express,JCFZXE0NAJIR,
+16,8,2023-08-22 12:27:13.011498,11229.89,processing,"359 Main St, City 38, State 16","359 Main St, City 38, State 16",Credit Card,Standard,XR44PV6EJ8UH,
+17,22,2024-01-10 12:27:13.011924,7883.36,pending,"715 Main St, City 46, State 49","574 Side St, City 4, State 8",Credit Card,Express,OXSNZJEXMIXG,Some notes about the order
+18,52,2023-08-28 12:27:13.012340,4647.21,processing,"337 Main St, City 37, State 23","949 Side St, City 26, State 9",Bank Transfer,Overnight,8L0ZJRUGGB89,
+19,20,2024-05-01 12:27:13.012787,4466.16,processing,"548 Main St, City 13, State 40","999 Side St, City 26, State 27",PayPal,Standard,0OAEEKKP1NXG,
+20,18,2023-10-16 12:27:13.013106,9418.26,processing,"128 Main St, City 7, State 13","128 Main St, City 7, State 13",Credit Card,Standard,XB0SSD2D3888,
+21,45,2024-06-16 12:27:13.013513,2754.23,delivered,"646 Main St, City 5, State 26","508 Side St, City 30, State 1",PayPal,Overnight,D8WY7T75Y3SN,
+22,78,2023-10-10 12:27:13.014013,3742.20,pending,"810 Main St, City 29, State 33","810 Main St, City 29, State 33",Bank Transfer,Overnight,GV7WYFUT2CBM,Some notes about the order
+23,1,2023-09-11 12:27:13.014422,19255.93,shipped,"947 Main St, City 14, State 1","947 Main St, City 14, State 1",Credit Card,Overnight,RO48FFLBYKIN,Some notes about the order
+24,89,2023-12-12 12:27:13.015034,6956.85,delivered,"884 Main St, City 38, State 1","884 Main St, City 38, State 1",Bank Transfer,Standard,8H58WWDBMGYY,Some notes about the order
+25,42,2023-09-10 12:27:13.015344,14876.15,pending,"528 Main St, City 3, State 50","528 Main St, City 3, State 50",PayPal,Overnight,ND2BHCZ2DSOO,Some notes about the order
+26,51,2023-11-26 12:27:13.015957,15717.76,delivered,"216 Main St, City 31, State 35","216 Main St, City 31, State 35",Bank Transfer,Standard,63NDDKSQ60QY,
+27,70,2024-03-30 12:27:13.016542,12503.67,delivered,"166 Main St, City 43, State 43","166 Main St, City 43, State 43",Credit Card,Express,IU7DKQGC6WPP,Some notes about the order
+28,6,2024-01-13 12:27:13.017127,9221.96,delivered,"382 Main St, City 20, State 15","382 Main St, City 20, State 15",Credit Card,Overnight,H8CQ73D8FO8D,
+29,3,2024-02-04 12:27:13.017622,3444.85,pending,"933 Main St, City 48, State 43","9 Side St, City 44, State 24",Bank Transfer,Standard,3RZIQ7F2QOG4,
+30,47,2024-07-05 12:27:13.018117,5406.12,pending,"642 Main St, City 28, State 3","642 Main St, City 28, State 3",Credit Card,Standard,H3RXJOLT86GN,Some notes about the order
+31,16,2024-04-04 12:27:13.018524,361.96,shipped,"135 Main St, City 22, State 42","671 Side St, City 32, State 37",Credit Card,Standard,WBPAE8OXJN6Z,Some notes about the order
+32,4,2023-10-16 12:27:13.018765,16705.79,cancelled,"340 Main St, City 3, State 34","340 Main St, City 3, State 34",Credit Card,Standard,L086A684K130,Some notes about the order
+33,46,2023-08-17 12:27:13.019349,9545.68,delivered,"365 Main St, City 5, State 2","365 Main St, City 5, State 2",PayPal,Standard,58KBIWV3KGU2,Some notes about the order
+34,15,2024-05-15 12:27:13.019938,9485.34,cancelled,"575 Main St, City 3, State 43","575 Main St, City 3, State 43",PayPal,Overnight,2NZQ73PHDUJI,Some notes about the order
+35,63,2023-10-10 12:27:13.020442,5605.66,delivered,"856 Main St, City 17, State 10","563 Side St, City 34, State 9",Credit Card,Standard,NU8NQRX6G6BR,Some notes about the order
+36,86,2024-07-10 12:27:13.020849,5068.80,processing,"243 Main St, City 49, State 6","243 Main St, City 49, State 6",PayPal,Express,63PFIOHPM6R7,
+37,91,2024-02-22 12:27:13.021164,5697.08,pending,"23 Main St, City 1, State 7","364 Side St, City 26, State 15",Credit Card,Overnight,N9W63DSRBQ9T,Some notes about the order
+38,51,2023-10-04 12:27:13.021658,877.23,shipped,"722 Main St, City 42, State 47","567 Side St, City 40, State 9",Bank Transfer,Overnight,NUL6VX2TG8IM,
+39,34,2024-02-03 12:27:13.021889,1060.59,delivered,"621 Main St, City 1, State 3","621 Main St, City 1, State 3",Bank Transfer,Express,K6H3ALWR4EBY,
+40,13,2024-05-22 12:27:13.022116,4630.91,pending,"646 Main St, City 32, State 21","646 Main St, City 32, State 21",Credit Card,Overnight,J1PBPN8VK2ID,
+41,33,2024-02-05 12:27:13.022431,10079.74,delivered,"756 Main St, City 19, State 30","756 Main St, City 19, State 30",Bank Transfer,Overnight,SWRO3EZY8FR4,
+42,1,2023-09-16 12:27:13.023025,3569.08,processing,"902 Main St, City 4, State 4","902 Main St, City 4, State 4",Bank Transfer,Overnight,7783DP1BF2FP,
+43,16,2024-01-15 12:27:13.023339,1798.32,shipped,"3 Main St, City 48, State 8","3 Main St, City 48, State 8",PayPal,Overnight,GU85UBS96JB5,
+44,55,2023-10-06 12:27:13.023688,8097.83,processing,"547 Main St, City 34, State 16","874 Side St, City 20, State 16",PayPal,Express,R4RPQG4VBQ9O,Some notes about the order
+45,29,2024-01-29 12:27:13.024187,6101.10,pending,"748 Main St, City 36, State 38","748 Main St, City 36, State 38",PayPal,Express,WZB10DKB1V4F,Some notes about the order
+46,96,2024-04-26 12:27:13.024502,1539.16,shipped,"565 Main St, City 20, State 9","565 Main St, City 20, State 9",Bank Transfer,Overnight,MVN45HB9P2Y1,Some notes about the order
+47,9,2023-10-10 12:27:13.024730,9538.53,processing,"491 Main St, City 21, State 6","491 Main St, City 21, State 6",Credit Card,Express,N046388CCC5F,
+48,67,2024-04-07 12:27:13.025223,12355.87,shipped,"507 Main St, City 29, State 1","507 Main St, City 29, State 1",Bank Transfer,Standard,HIAMGF9FDQG8,
+49,6,2024-07-15 12:27:13.025652,2819.48,processing,"443 Main St, City 12, State 6","363 Side St, City 23, State 40",Credit Card,Overnight,R8OFDBGD4XCJ,
+50,78,2024-07-07 12:27:13.025879,11162.43,delivered,"61 Main St, City 44, State 41","61 Main St, City 44, State 41",Credit Card,Standard,2QL2QWHPWP6U,Some notes about the order
+51,11,2024-07-08 12:27:13.026287,14248.82,pending,"501 Main St, City 27, State 16","501 Main St, City 27, State 16",Credit Card,Overnight,TUSEB6ORQPTT,
+52,25,2024-01-17 12:27:13.026815,9125.04,pending,"543 Main St, City 30, State 22","543 Main St, City 30, State 22",Bank Transfer,Overnight,572KF5VX6USA,
+53,88,2024-02-20 12:27:13.027348,9110.76,cancelled,"612 Main St, City 48, State 19","213 Side St, City 38, State 45",Bank Transfer,Standard,0MWNYHJ9MJ9V,
+54,71,2023-08-08 12:27:13.027962,7308.66,cancelled,"404 Main St, City 8, State 39","404 Main St, City 8, State 39",Credit Card,Express,XQHAZQSHZZTW,
+55,84,2024-06-11 12:27:13.028461,5242.14,pending,"842 Main St, City 11, State 4","191 Side St, City 17, State 26",PayPal,Standard,076NLOPFIPGD,
+56,29,2023-08-11 12:27:13.028796,7389.93,pending,"85 Main St, City 13, State 32","474 Side St, City 44, State 17",Credit Card,Standard,O5OVTOKV0XQI,Some notes about the order
+57,75,2023-10-29 12:27:13.029412,2125.98,cancelled,"91 Main St, City 23, State 33","469 Side St, City 17, State 31",Bank Transfer,Express,H2KBZ17CIILM,
+58,34,2024-04-17 12:27:13.029819,6963.75,delivered,"32 Main St, City 50, State 33","46 Side St, City 39, State 31",Credit Card,Express,3FCGAR2WXKDO,
+59,78,2024-07-16 12:27:13.030045,12648.01,shipped,"459 Main St, City 31, State 33","228 Side St, City 29, State 21",Bank Transfer,Standard,NE18RGG185Q0,Some notes about the order
+60,17,2024-01-28 12:27:13.030644,5811.69,processing,"679 Main St, City 35, State 48","250 Side St, City 30, State 3",Credit Card,Standard,U71NBJDLO5YY,Some notes about the order
+61,21,2024-01-12 12:27:13.030870,6371.19,pending,"787 Main St, City 5, State 7","787 Main St, City 5, State 7",PayPal,Standard,1K0TPBS72AOO,Some notes about the order
+62,22,2023-09-12 12:27:13.031453,3078.33,delivered,"729 Main St, City 28, State 35","759 Side St, City 20, State 47",Credit Card,Express,YB9R1MHQKWMC,Some notes about the order
+63,39,2023-09-01 12:27:13.031707,8972.67,shipped,"568 Main St, City 37, State 29","568 Main St, City 37, State 29",Credit Card,Express,FPQ3DMPXVS4V,Some notes about the order
+64,65,2024-04-13 12:27:13.032379,2618.94,pending,"729 Main St, City 27, State 20","840 Side St, City 49, State 42",Bank Transfer,Standard,607HLOLKRDML,
+65,100,2024-07-05 12:27:13.032770,2902.10,processing,"569 Main St, City 20, State 29","569 Main St, City 20, State 29",PayPal,Overnight,2LZ9YKON0AZB,Some notes about the order
+66,67,2024-03-23 12:27:13.033007,7187.73,cancelled,"345 Main St, City 38, State 20","345 Main St, City 38, State 20",Credit Card,Standard,WHZ83W9KGIVQ,
+67,34,2024-06-30 12:27:13.033424,1664.09,delivered,"329 Main St, City 1, State 23","329 Main St, City 1, State 23",Credit Card,Overnight,XQAAUHK9E7IA,Some notes about the order
+68,7,2024-03-07 12:27:13.033831,2583.61,delivered,"438 Main St, City 25, State 30","314 Side St, City 25, State 2",Credit Card,Standard,2XAZYY97LU0D,
+69,3,2023-08-07 12:27:13.034059,5497.52,pending,"903 Main St, City 3, State 29","903 Main St, City 3, State 29",Bank Transfer,Overnight,CG1L5ZUDPTXR,Some notes about the order
+70,88,2024-03-19 12:27:13.034555,2688.66,processing,"299 Main St, City 3, State 39","299 Main St, City 3, State 39",Bank Transfer,Overnight,7URVAH7SDLQV,Some notes about the order
+71,87,2023-12-09 12:27:13.034783,13077.22,cancelled,"831 Main St, City 34, State 48","429 Side St, City 17, State 41",Credit Card,Standard,EL7YJ17AS6L0,
+72,28,2023-12-17 12:27:13.035321,6576.12,shipped,"409 Main St, City 23, State 13","659 Side St, City 8, State 30",PayPal,Overnight,SO5BYG2P5JOB,
+73,63,2023-11-27 12:27:13.035830,9288.98,cancelled,"668 Main St, City 40, State 22","668 Main St, City 40, State 22",Bank Transfer,Express,OR3WWZ0Q8CGI,Some notes about the order
+74,97,2024-04-07 12:27:13.036239,12431.14,pending,"642 Main St, City 36, State 3","642 Main St, City 36, State 3",PayPal,Express,J54H96VZR24R,Some notes about the order
+75,11,2023-09-29 12:27:13.036829,13715.83,delivered,"203 Main St, City 23, State 42","887 Side St, City 39, State 10",PayPal,Express,M5Q41AHQZ6ZC,Some notes about the order
+76,86,2023-10-09 12:27:13.037414,1956.82,pending,"944 Main St, City 26, State 34","944 Main St, City 26, State 34",Credit Card,Express,QQYNU6KEY77C,Some notes about the order
+77,27,2024-01-15 12:27:13.037761,12463.87,pending,"13 Main St, City 35, State 46","13 Main St, City 35, State 46",Bank Transfer,Overnight,5NNYKKN1FS6S,
+78,42,2024-01-14 12:27:13.038261,3749.13,cancelled,"682 Main St, City 14, State 8","682 Main St, City 14, State 8",Credit Card,Express,XCUAAB1QIH3E,Some notes about the order
+79,20,2023-09-07 12:27:13.038578,833.53,shipped,"277 Main St, City 16, State 5","3 Side St, City 6, State 23",Credit Card,Overnight,IVDK8FGJZT8D,
+80,80,2024-02-23 12:27:13.038897,6816.90,cancelled,"889 Main St, City 37, State 9","553 Side St, City 47, State 39",Credit Card,Standard,UYDWFJKKA3MB,Some notes about the order
+81,95,2024-04-10 12:27:13.039517,2070.08,shipped,"600 Main St, City 37, State 22","535 Side St, City 18, State 19",PayPal,Standard,8JXFTUPAL7PJ,
+82,55,2023-08-29 12:27:13.039981,13339.49,delivered,"950 Main St, City 2, State 11","950 Main St, City 2, State 11",PayPal,Standard,EERAUOHJ1BZ2,Some notes about the order
+83,100,2023-10-02 12:27:13.040359,5167.33,cancelled,"118 Main St, City 8, State 14","118 Main St, City 8, State 14",Bank Transfer,Express,KCOJUAKIB5F3,Some notes about the order
+84,74,2023-10-08 12:27:13.040630,660.67,cancelled,"432 Main St, City 1, State 27","432 Main St, City 1, State 27",PayPal,Standard,D61KVQCDSQ90,
+85,80,2024-01-12 12:27:13.041018,7317.91,cancelled,"604 Main St, City 15, State 7","604 Main St, City 15, State 7",Bank Transfer,Express,NPZMVXDPN5DI,Some notes about the order
+86,30,2023-08-30 12:27:13.041514,592.58,delivered,"394 Main St, City 31, State 35","435 Side St, City 45, State 17",Bank Transfer,Overnight,PUUMTLO9ME6L,
+87,1,2024-07-21 12:27:13.041866,2780.75,delivered,"650 Main St, City 24, State 3","168 Side St, City 6, State 2",Credit Card,Overnight,2D06EIET5Z20,
+88,24,2024-04-02 12:27:13.042208,7534.21,processing,"48 Main St, City 1, State 47","48 Main St, City 1, State 47",Bank Transfer,Overnight,A8RFKNBHM2RV,Some notes about the order
+89,48,2024-02-04 12:27:13.042827,4879.63,processing,"721 Main St, City 23, State 43","190 Side St, City 38, State 33",Credit Card,Standard,3FO5KXR3M73C,
+90,59,2023-09-30 12:27:13.043305,5387.64,processing,"738 Main St, City 35, State 42","738 Main St, City 35, State 42",Bank Transfer,Express,MOCM95YGPI8M,Some notes about the order
+91,27,2024-05-13 12:27:13.043803,3529.82,processing,"500 Main St, City 11, State 21","500 Main St, City 11, State 21",Credit Card,Express,AC828BA40IKM,Some notes about the order
+92,60,2023-10-02 12:27:13.044141,8590.20,delivered,"535 Main St, City 16, State 33","535 Main St, City 16, State 33",Bank Transfer,Standard,70WOFW5E7Q7L,Some notes about the order
+93,47,2024-07-02 12:27:13.044903,9058.25,delivered,"916 Main St, City 7, State 3","759 Side St, City 26, State 40",Credit Card,Overnight,7C4DMDEWSM56,
+94,18,2023-11-11 12:27:13.045813,3900.17,cancelled,"823 Main St, City 1, State 9","823 Main St, City 1, State 9",Credit Card,Overnight,LQ0TPTN25TOL,Some notes about the order
+95,11,2024-04-18 12:27:13.046186,612.29,shipped,"765 Main St, City 4, State 42","338 Side St, City 14, State 11",Bank Transfer,Standard,YYDM2QY25EVE,Some notes about the order
+96,39,2023-08-25 12:27:13.046538,6609.94,processing,"112 Main St, City 4, State 28","971 Side St, City 10, State 29",Credit Card,Overnight,4AO7F4KJ0Q06,
+97,27,2023-12-20 12:27:13.047284,4225.83,delivered,"741 Main St, City 20, State 7","741 Main St, City 20, State 7",Credit Card,Standard,MACCBCR2PEU4,
+98,75,2024-04-09 12:27:13.048176,1962.15,processing,"759 Main St, City 33, State 29","759 Main St, City 33, State 29",Bank Transfer,Standard,3VQN3RVD30DU,
+99,62,2023-10-30 12:27:13.048513,7864.20,pending,"279 Main St, City 12, State 16","923 Side St, City 15, State 18",Credit Card,Standard,LNYKO2SOOSIU,
+100,36,2024-01-23 12:27:13.048988,15734.48,delivered,"94 Main St, City 1, State 29","675 Side St, City 18, State 37",Bank Transfer,Express,VME4PBNGB81F,
